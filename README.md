@@ -1,5 +1,4 @@
 <h1>NLW Esports</h1>
-
 Cross-plataform Application Developed at NextLevelWeek [@Rocketseat](https://rocketseat.com.br/) 
 
 <h3>→ Technologies</h3>
